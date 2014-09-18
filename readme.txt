@@ -18,3 +18,4 @@ Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick AND simple
 >>>>>>> featrue1
+<meta name="description" content="hello world in Git"/>
